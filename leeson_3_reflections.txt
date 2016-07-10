@@ -1,0 +1,9 @@
+When would you want to use a remote repository 
+rathern tah keeping all your work local?
+- If I want to share my work with other people.
+- If I want to collaborate on one project with other people.
+- I always use a private remote repository 
+  - as a safety net; if my computer crashes/breaks
+    I will still have my files.
+  - I work on dfferent computers, in this way I can
+  access my files from any of my workspaces.
