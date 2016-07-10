@@ -27,3 +27,8 @@ to the master branch. It will help keeping your history organized
 in the sense that you will have the commit history of these kind of
 changes seperately. You would not have to search in between all the other
 commits to find the ones that only belong to you specific goal.
+
+How do the diagrams help you visualize the branch structure?
+They make it easy to see what commits are unreachable,
+or nreachable for specific branch. And alos what the parents
+are from specific commits.
