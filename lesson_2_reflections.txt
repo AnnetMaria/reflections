@@ -42,3 +42,14 @@ amd ||||||| merged common ancestors
 =======
 >>>>>>> master
 merge them manually into one. Test, add, commit.
+
+What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+Pro is that autmatic merging goes really quick.
+Con is that git does not understand the content of
+the changes so a merge might contain two methods
+that do the same on very differnt places.
+When changes are being done in the same area
+Git will detect it and lets you manually choose which
+of the change you want to keep.
+
