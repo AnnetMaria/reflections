@@ -11,3 +11,11 @@ you have the possibility to already add the.
 Also the status command that checks on your working 
 directory and the staging are, can tell you which files
 are changed, not in version control etc.
+
+How can you use the staging area to make sure you have one commit 
+per logical change?
+You can both compare the stagin area with your working directory
+and your repository to see of you staging area files
+really copile of one logical change.
+The staging area gives you an overview of the files you previously added
+and you might forgot about.
