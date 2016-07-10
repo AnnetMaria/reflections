@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, a .git file is created.
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+The staging are is the in between area. It is possible to
+already add files to the staging are and not commit them.
+I you have a change that consists of mutiple files,
+you have the possibility to already add the.
+Also the status command that checks on your working 
+directory and the staging are, can tell you which files
+are changed, not in version control etc.

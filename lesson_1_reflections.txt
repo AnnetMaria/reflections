@@ -1,0 +1,14 @@
+How can you use the commands git log and git diff to view the history of files?
+- Use git log to view your commit history
+- Use arrows up and down to scroll up and dows
+- copy/paste the first (older) version 
+- git diff [older version long number] [new version long number]
+
+How might using version control make you more confident to make changes that could break something?
+If you break someting you can always go back to the previous commit.
+You can use git diff to learn what caused the error.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to version control all the code I write and push it 
+to my server.
+
