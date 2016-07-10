@@ -32,3 +32,11 @@ How do the diagrams help you visualize the branch structure?
 They make it easy to see what commits are unreachable,
 or nreachable for specific branch. And alos what the parents
 are from specific commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branhes together results in one combined branch.
+
+I have learned how to resolve a confilct in a file:
+go to the conflited file and look for >>>>>>>>>head
+amd ===============
+merge them manually into one. Test, add, commit.
