@@ -37,6 +37,8 @@ What is the result of merging two branches together? Why do we represent it in t
 Merging two branhes together results in one combined branch.
 
 I have learned how to resolve a confilct in a file:
-go to the conflited file and look for >>>>>>>>>head
-amd ===============
+go to the conflited file and look for <<<<<<< HEAD
+amd ||||||| merged common ancestors
+=======
+>>>>>>> master
 merge them manually into one. Test, add, commit.
