@@ -19,3 +19,11 @@ and your repository to see of you staging area files
 really copile of one logical change.
 The staging area gives you an overview of the files you previously added
 and you might forgot about.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would help if you start a new feature or want to make a big
+expirimental chage that is different from the work being done
+to the master branch. It will help keeping your history organized
+in the sense that you will have the commit history of these kind of
+changes seperately. You would not have to search in between all the other
+commits to find the ones that only belong to you specific goal.
